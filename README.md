@@ -1,3 +1,19 @@
+  <h1 align="center">ScreenShots</h1>
+   <div align="center">
+       <a>
+       <img src="public/screenshot1.png" alt="screenshot"/>  
+       </a>
+       <a>
+       <img src="public/screenshot2.png" alt="screenshot"/>  
+       </a>
+       <a>
+       <img src="public/screenshot3.png" alt="screenshot"/>  
+       </a>
+      
+      
+      
+</div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
